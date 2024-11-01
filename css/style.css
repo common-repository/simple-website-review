@@ -1,0 +1,33 @@
+/* Main */
+.review-page {text-align: center; background-color: #fff; border: 1px solid #aaa; border-radius: 5px; padding: 30px 20px;}
+.review-page .links { display: none;}
+.review-page .form {display: none;}
+.review-page .links img {margin: 10px 0; height: 60px !important;}
+
+/* Positive Button */
+.review-page .positive { background-color: #00a400; color: #fff;  padding: 20px; font-size: 120%; border-radius: 5px; max-width: 400px; margin: 10px auto; cursor: pointer;}
+.review-page .positive:hover {background-color: #008300;}
+.review-page .positive img {margin-bottom: -4px;}
+
+/* Negative Button */
+.review-page .negative { background-color: #ff0000; color: #fff;  padding: 20px; font-size: 120%; border-radius: 5px; max-width: 400px; margin: 10px auto; cursor: pointer;}
+.review-page .negative:hover { background-color: #d00000;}
+.review-page .negative img {margin-bottom: -4px;}
+
+/* Back Button */
+.review-page .back {text-decoration: none !important; }
+
+/* Email Form */
+#scuf .button-send {box-shadow: none; margin-top: 15px; background-color: #ff0000; color: #fff;  padding: 15px 20px; font-size: 120%; border-radius: 5px; border: 0px; max-width: 400px; margin: 10px auto; cursor: pointer;}
+#scuf .button-send:hover {background-color: #d00000;}
+#scuf .text {width: 100%; max-width: 300px; height: 30px; margin-bottom: 15px;}
+#scuf .textarea {height: 100px; max-width: 300px;}
+
+/* Widget */
+.swr_widget_box {height: 150px;}
+.swr_widget_left {float: left; width: 40%;}
+.swr_widget_right {float: right; width: 60%;}
+.swr_widget_textarea {text-align: center; padding: 7px 20px; margin: 0 auto; color: #0081ec; font-weight: 600;}
+.swr_widget_link {min-width: 80px; text-decoration: none; text-align: center; background-color: #f7b06e; padding: 5px 10px; color: #fff !important; margin: 10px 20px; display: block;}
+.swr_widget_link:hover {background-color: #f28c2e;}
+
